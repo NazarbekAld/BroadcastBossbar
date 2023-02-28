@@ -1,0 +1,10 @@
+
+Broadcast:
+  public1: # 1st Bossbar Session.
+    text: "Hello world!"
+    interval: 1 # In ticks
+    repeat: 400 # ends after 400ticks (400 * 1)
+  public2: # 1st Bossbar Session.
+    text: "Hello world2!"
+    interval: 1 # In ticks
+    repeat: 400 # ends after 400ticks (400 * 1)

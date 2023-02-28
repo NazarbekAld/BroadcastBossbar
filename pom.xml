@@ -25,9 +25,9 @@
          
     <dependencies>
         <dependency>
-            <groupId>cn.powernukkitx</groupId>
-            <artifactId>powernukkitx</artifactId>
-            <version>1.19.62-r1</version>
+            <groupId>com.github.nazarbekald</groupId>
+            <artifactId>survivalcore</artifactId>
+            <version>862bf8330e</version>
         </dependency>
     </dependencies>
 
